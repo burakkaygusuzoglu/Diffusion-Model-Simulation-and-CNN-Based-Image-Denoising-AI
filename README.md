@@ -1,0 +1,2 @@
+# Diffusion-Model-Simulation-and-CNN-Based-Image-Denoising-AI
+This project implements a simplified diffusion model framework, including forward noise injection and reverse-inspired denoising. A convolutional neural network (CNN) is trained to map noisy images to clean targets, demonstrating learned image restoration. The project also includes a demonstration of pretrained diffusion models using Hugging Face.
